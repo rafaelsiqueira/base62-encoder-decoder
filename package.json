@@ -1,0 +1,28 @@
+{
+  "name": "base62-encoder-decoder",
+  "version": "1.0.0",
+  "description": "Base62 Encoder/Decoder",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rafaelsiqueira/base62-encoder-decoder.git"
+  },
+  "keywords": [
+    "base62",
+    "decoder",
+    "enconder",
+    "utility"
+  ],
+  "author": "Rafael Siqueira <rafael@siqueira.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsiqueira/base62-encoder-decoder/issues"
+  },
+  "homepage": "https://github.com/rafaelsiqueira/base62-encoder-decoder#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
